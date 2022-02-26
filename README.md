@@ -7,4 +7,4 @@ minonews/minonews is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-Here my website just like build with wordpress [Minonews.com](https://www.minonews.com)
+Here my website just like build with wordpress and javascript [Minonews.com](https://www.minonews.com)
